@@ -34,6 +34,13 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+	 
+    }
+	public void testApp()
+    {
+        assertTrue( true );
+		
+		// yes tis is also retun some this 
     }
     public void testApp()
     {
