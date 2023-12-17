@@ -20,4 +20,11 @@ class ExceptionTest {
 		assertThrows(ArithmeticException.class, ()-> exception.arithmaticException(10, 0));
 	}
 
+@Test
+	public void arithmaticException() {
+		
+		assertThrows(ArithmeticException.class, ()-> exception.arithmaticException(10, 0));
+	}
+//Its cooman commant
+
 }
